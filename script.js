@@ -1,9 +1,9 @@
 const phrases = [
   "Ayush Mehta",
-  "Ayush Mehta - Game Dev Architect",
+  "Ayush Mehta - Game developer",
   "Ayush Mehta - IoT Systems Maker",
   "Ayush Mehta - Creative Coding Explorer",
-  "Ayush Mehta - ML & UE5 Builder",
+  "Ayush Mehta - Level designer",
 ];
 
 const typeElement = document.getElementById("hero-name");
